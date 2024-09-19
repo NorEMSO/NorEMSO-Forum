@@ -17,6 +17,5 @@ Watch our video about the NorEMSO project :point_down:
 
 [![Watch a video about our NorEMSO](https://github.com/user-attachments/assets/07b74150-68ee-4a7a-97e5-45b5d89c869a)](https://www.youtube.com/watch?v=I1cUssnRT_Q)
 
-*Project partners are University of Bergen, Institute of Marine Research, NORCE, University of Tromsø, Norwegian Polar Institute and   
-the Norwegian Meteorological Institute.*
+*Project partners are University of Bergen, Institute of Marine Research, NORCE, University of Tromsø, Norwegian Polar Institute and the Norwegian Meteorological Institute.*
 ![logos 1x5](https://github.com/user-attachments/assets/2b99f69f-7573-4fac-acf7-4309a083772e)
